@@ -1,0 +1,14 @@
+C:\Users\b\Downloads\Grade Calculator\GradeCalculator\bin\Debug\net9.0\GradeCalculator.exe
+C:\Users\b\Downloads\Grade Calculator\GradeCalculator\bin\Debug\net9.0\GradeCalculator.deps.json
+C:\Users\b\Downloads\Grade Calculator\GradeCalculator\bin\Debug\net9.0\GradeCalculator.runtimeconfig.json
+C:\Users\b\Downloads\Grade Calculator\GradeCalculator\bin\Debug\net9.0\GradeCalculator.dll
+C:\Users\b\Downloads\Grade Calculator\GradeCalculator\bin\Debug\net9.0\GradeCalculator.pdb
+C:\Users\b\Downloads\Grade Calculator\GradeCalculator\obj\Debug\net9.0\GradeCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\b\Downloads\Grade Calculator\GradeCalculator\obj\Debug\net9.0\GradeCalculator.AssemblyInfoInputs.cache
+C:\Users\b\Downloads\Grade Calculator\GradeCalculator\obj\Debug\net9.0\GradeCalculator.AssemblyInfo.cs
+C:\Users\b\Downloads\Grade Calculator\GradeCalculator\obj\Debug\net9.0\GradeCalculator.csproj.CoreCompileInputs.cache
+C:\Users\b\Downloads\Grade Calculator\GradeCalculator\obj\Debug\net9.0\GradeCalculator.dll
+C:\Users\b\Downloads\Grade Calculator\GradeCalculator\obj\Debug\net9.0\refint\GradeCalculator.dll
+C:\Users\b\Downloads\Grade Calculator\GradeCalculator\obj\Debug\net9.0\GradeCalculator.pdb
+C:\Users\b\Downloads\Grade Calculator\GradeCalculator\obj\Debug\net9.0\GradeCalculator.genruntimeconfig.cache
+C:\Users\b\Downloads\Grade Calculator\GradeCalculator\obj\Debug\net9.0\ref\GradeCalculator.dll
